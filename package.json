@@ -1,0 +1,28 @@
+{
+  "name": "static_site_template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuyake0084/static_site_template.git",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.22.0",
+    "browser-sync": "^2.18.6",
+    "browserify": "^14.0.0",
+    "cssnano": "^3.10.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-ejs": "^2.3.0",
+    "gulp-front-matter": "^1.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.0",
+    "layout-wrapper": "^1.1.1",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-import": "^9.1.0",
+    "postcss-nested": "^1.0.0",
+    "run-sequence": "^1.2.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
